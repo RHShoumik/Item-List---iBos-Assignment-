@@ -1,7 +1,6 @@
 ## Task --
 
-[button]
-<a><button name="button" style = "color: red" >Inser New Column</button></a>
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
 | Item Name | Amount | Action |
 | :-------: | :---------: | :---------------: |
 | Item 1 | Input field | Delete ( Button ) |
