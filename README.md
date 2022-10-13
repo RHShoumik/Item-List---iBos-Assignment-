@@ -1,6 +1,8 @@
 ## Task --
 
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+<!-- Place this tag where you want the button to render. -->
+
+<a class="github-button" href="https://github.com/buttons/github-buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Star buttons/github-buttons on GitHub">Insert New Row</a>
 | Item Name | Amount | Action |
 | :-------: | :---------: | :---------------: |
 | Item 1 | Input field | Delete ( Button ) |
