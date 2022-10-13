@@ -1,6 +1,6 @@
 ## Task --
 
-[![button]
+[button]
 <a><button name="button" style = "color: red" >Inser New Column</button></a>
 | Item Name | Amount | Action |
 | :-------: | :---------: | :---------------: |
